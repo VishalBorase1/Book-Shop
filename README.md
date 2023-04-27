@@ -28,8 +28,6 @@
 - [Deployment](#deployment)
 - [Usage](#usage)
 - [Built Using](#built_using)
-- [TODO](../TODO.md)
-- [Contributing](../CONTRIBUTING.md)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
@@ -49,53 +47,27 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them.
 
 ```
-Give examples
+Install Eclipse IDE then Download Windows builder Using Eclipse Marketplace in Eclipse IDE
 ```
 
 ### Installing
-A step by step series of examples that tell you how to get a development env running.
-
-Say what the step will be
-
-```
-Install Softwares
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
+Install Eclipse IDE then Download Windows builder Using Eclipse Marketplace in Eclipse IDE and then Going to Design 
+Application Windows For Our project file that is steps , Firstly Right Click on project → New 
+→ Others → Windows Builder → Swing Designer → Application Window . 
 
 ## 🔧 Running the tests <a name = "tests"></a>
-Explain how to run the automated tests for this system.
-
-### Break down into end to end tests
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-Explain what these tests test and why
-
-```
-Give an example
-```
+First Go into Eclipse IDE and you can run the program using Java Application.
 
 ## 🎈 Usage <a name="usage"></a>
-Add notes about how to use the system.
+
 
 ## 🚀 Deployment <a name = "deployment"></a>
-Add additional notes about how to deploy this on a live system.
+First Extract the file from GitHub and import it into Eclipse IDE and you can run the program
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 - [MySQL](https://www.mysql.com/) - Database
 - [Java](https://java.com/) - JFrame
-- [EclipseIDE](https://vuejs.org/) - Java IDE
+- [EclipseIDE](https://www.eclipse.org/) - Java IDE
 
 ## ✍️ Authors <a name = "authors"></a>
 - [@VishalBorase1](https://github.com/VishalBorase1) - FSD
