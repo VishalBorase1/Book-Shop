@@ -3,8 +3,9 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=800px height=400px src="https://user-images.githubusercontent.com/110810311/235176971-00d39482-4775-4477-8072-7de798a2007f.png" alt="Project logo"></a>
+ <img width=700px height=400px src="https://user-images.githubusercontent.com/110810311/235177346-5ff077e0-5ac0-46c4-a0bc-0b8ff835cf5e.png" alt="Project logo"></a>
 </p>
+
 
 <h3 align="center">Book Shop</h3>
 
