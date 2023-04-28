@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=2=400px height=300px src="https://user-images.githubusercontent.com/110810311/235175330-5f3f226d-7293-4871-b1ed-bbad992119c3.png"alt="Project logo"></a>
+ <img width=600px height=400px src="https://user-images.githubusercontent.com/110810311/235176345-fd1958ec-8101-44a5-9bc5-4ec68254cc7f.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Book Shop</h3>
