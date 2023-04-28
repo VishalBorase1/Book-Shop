@@ -13,12 +13,11 @@
 
   [![Status](https://img.shields.io/badge/status-active-success.svg)]() 
 
-
 </div>
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="center">  building a Java-based application that uses JDBC (Java Database Connectivity) to connect with a MySQL database. The project involves creating a "Book-Shop" database
     <br> 
 </p>
 
