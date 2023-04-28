@@ -61,7 +61,7 @@ JDBC driver for MySQL downloaded and added to your project's classpath
 
 ## 🔧 Running the tests <a name = "tests"></a>
 First Go into Eclipse IDE and you can run the program using Java Application Right click on project and run as java apllication.
-load the JDBC driver after it automatically establish connection then application Window are open . 
+load the JDBC driver after it automatically establish connection then application Window are open.That is Book Shop Window. 
 
 ## 🎈 Usage <a name="usage"></a>
 This is CRUD operation project you can use it to store Books Data  stores Many No of 
