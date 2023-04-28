@@ -27,36 +27,42 @@
 - [Getting Started](#getting_started)
 - [Deployment](#deployment)
 - [Usage](#usage)
+- [Features](#Features)
 - [Built Using](#built_using)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
-This is my portfolio project which demonstrates with my abilities in building a completely based on 
-JDBC i.e Java Database Connectivity. i Created Database Connection between Java Eclipse Code and 
-Mysql . Create a Database i.e the Namely as “Book-Shop” In. these Database User stores Many No of 
-Books information i.e Book name its Edition and its Price He Display all of that Data with List. And 
-Also Make Many Operations On it He can Save Book Data , Update the Book Data , Delete the Book 
-Data and Clear the Book Data .
-
+This is a portfolio project that demonstrates my abilities in building a Java-based application that uses JDBC (Java Database Connectivity) to connect with a MySQL database. The project involves creating a "Book-Shop" database, storing book information such as book name, edition, and price, and performing various CRUD (Create, Read, Update, Delete) operations on the data.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+Set up your development environment
+Create your MySQL database and tables
+Create a new Java project in Eclipse
+Add the JDBC driver to your project
+Create a new JFrame form using Windows Builder
+Add GUI components to the JFrame form
+Implement the CRUD operations in your Java code
+Test your application..
 
 ### Prerequisites
-What things you need to install the software and how to install them.
-
-```
-Install Eclipse IDE then Download Windows builder Using Eclipse Marketplace in Eclipse IDE
-```
+To run the Book Shop project using JDBC and MySQL in Eclipse IDE with a Windows Builder application window, 
+the following prerequisites are required:
+JDK (Java Development Kit) version 17 or higher
+Eclipse IDE with the Window Builder plugin installed
+MySQL server installed on your local machine or on a remote server that you have access to
+JDBC driver for MySQL downloaded and added to your project's classpath
 
 ### Installing
-Install Eclipse IDE then Download Windows builder Using Eclipse Marketplace in Eclipse IDE and then Going to Design 
-Application Windows For Our project file that is steps , Firstly Right Click on project → New 
-→ Others → Windows Builder → Swing Designer → Application Window . 
+1. Clone this repository or download the ZIP file
+2. Open Eclipse and import the project as a Java project
+3. Add the JDBC driver to the project's classpath
+4. Run the `JavaCrud.java` file to start the application 
 
 ## 🔧 Running the tests <a name = "tests"></a>
-First Go into Eclipse IDE and you can run the program using Java Application.
+First Go into Eclipse IDE and you can run the program using Java Application Right click on project and run as java apllication.
+load the JDBC driver i.e mysql 8.O → Class.forName("com.mysql.cj.jdbc.Driver"); after it automatically establish connection
+then application Window are open . 
 
 ## 🎈 Usage <a name="usage"></a>
 This is CRUD operation project you can use it to store Books Data  stores Many No of 
@@ -64,8 +70,16 @@ Books information i.e Book name its Edition and its Price He Display all of that
 Also Make Many Operations On it He can Save Book Data , Update the Book Data , Delete the Book 
 Data and Clear the Book Data .
 
+### Features
+This project allows you to:
+- Add new books to the database
+- Edit existing books in the database
+- Delete books from the database
+- View a list of all books in the database
+
 ## 🚀 Deployment <a name = "deployment"></a>
-First Extract the file from GitHub and import it into Eclipse IDE and you can run the program
+First Extract the file from GitHub and import it into eclipse IDE and you can run the program, So that it will automatically generate the database table and then you can run the code in eclipse IDE.
+Also You can deploy the Book Shop project on your local machine by setting up a MySQL server and running the application on your machine.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 - [MySQL](https://www.mysql.com/) - Database
@@ -77,7 +91,7 @@ First Extract the file from GitHub and import it into Eclipse IDE and you can ru
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 - Inspiration
-SkillLync
+Skill-Lync
 - References
-TutusFunny https://www.tutussfunny.com/java-crud-step-by-step-in-eclipse/
+TutusFunny Youtube Channel. https://www.tutussfunny.com/java-crud-step-by-step-in-eclipse/
 
