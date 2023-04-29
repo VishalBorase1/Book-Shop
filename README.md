@@ -3,9 +3,8 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=700px height=400px src="https://user-images.githubusercontent.com/110810311/235177346-5ff077e0-5ac0-46c4-a0bc-0b8ff835cf5e.png" alt="Project logo"></a>
+ <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
 </p>
-
 
 <h3 align="center">Book Shop</h3>
 
@@ -33,6 +32,10 @@
 
 ## 🧐 About <a name = "about"></a>
 This is a portfolio project that demonstrates my abilities in building a Java-based application that uses JDBC (Java Database Connectivity) to connect with a MySQL database. The project involves creating a "Book-Shop" database, storing book information such as book name, edition, and price, and performing various CRUD (Create, Read, Update, Delete) operations on the data.
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=700px height=400px src="https://user-images.githubusercontent.com/110810311/235177346-5ff077e0-5ac0-46c4-a0bc-0b8ff835cf5e.png">
+ 
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 Set up your development environment
