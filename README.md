@@ -1,22 +1,15 @@
-# Book-Shop
-# project-documentation
-
 <p align="center">
   <a href="" rel="noopener">
  <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
 </p>
-
-<h3 align="center">Book Shop</h3>
-
+<h3 align="center">The Book Shop</h3>
 <div align="center">
-
+  
   [![Status](https://img.shields.io/badge/status-active-success.svg)]() 
-
 </div>
 
 ---
-
-<p align="center">  building a Java-based application that uses JDBC (Java Database Connectivity) to connect with a MySQL database. The project involves creating a "Book-Shop" database
+<p align="center">  Build a Java-based application using JDBC (Java-Database Connectivity) API to connect with a MySQL database. The project involves creating a "Book-Shop" database.
     <br> 
 </p>
 
@@ -25,13 +18,13 @@
 - [Getting Started](#getting_started)
 - [Deployment](#deployment)
 - [Usage](#usage)
-- [Features](#Features)
+- [Features](#features)
 - [Built Using](#built_using)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
-This is a portfolio project that demonstrates my abilities in building a Java-based application that uses JDBC (Java Database Connectivity) to connect with a MySQL database. The project involves creating a "Book-Shop" database, storing book information such as book name, edition, and price, and performing various CRUD (Create, Read, Update, Delete) operations on the data.
+This is a portfolio project that demonstrates my abilities in building a Java-based application that uses JDBC (Java Database Connectivity) API to connect with a MySQL database. The project involves creating a "Book-Shop" database, storing book information such as book name, edition, and price, and performing various CRUD (Create, Read, Update, Delete) operations on the data.
 <p align="center">
   <a href="" rel="noopener">
  <img width=700px height=400px src="https://user-images.githubusercontent.com/110810311/235177346-5ff077e0-5ac0-46c4-a0bc-0b8ff835cf5e.png">
@@ -48,6 +41,7 @@ Implement the CRUD operations in your Java code
 Test your application..
 
 ### Prerequisites
+
 To run the Book Shop project using JDBC and MySQL in Eclipse IDE with a Windows Builder application window, 
 the following prerequisites are required:
 JDK (Java Development Kit) version 17 or higher
@@ -55,11 +49,6 @@ Eclipse IDE with the Window Builder plugin installed
 MySQL server installed on your local machine or on a remote server that you have access to
 JDBC driver for MySQL downloaded and added to your project's classpath
 
-### Installing
-1. Clone this repository or download the ZIP file
-2. Open Eclipse and import the project as a Java project
-3. Add the JDBC driver to the project's classpath
-4. Run the `JavaCrud.java` file to start the application 
 
 ## 🔧 Running the tests <a name = "tests"></a>
 First Go into Eclipse IDE and you can run the program using Java Application Right click on project and run as java apllication.
